@@ -1,20 +1,20 @@
 document.addEventListener("DOMContentLoaded", () => {
     let products = {
         data: [
-            { productName: "chicken wrapper", category: "dessert", price: "30", image: "image/chicken-wrap-doner-with-tomato_140725-10509.jpg" },
-            { productName: "Vanila latte", category: "coffee", price: "49", image: "image/latte-coffee-cup_1203-3395.jpg" },
-            { productName: "Cappuccion with mashmelow", category: "coffee", price: "99", image: "image/images (12).jpeg" },
-            { productName: "Chocalate tea", category: "coffee", price: "29", image: "image/coffee-preparation-concept-still-life_23-2150354610.jpg" },
-            { productName: "Chicken sandwich", category: "dessert", price: "129", image: "image/delicious-sandwich_144627-15079.jpg" },
-            { productName: "mango smoothie", category: "smoothies", price: "89", image: "image/mango smoothies.webp" },
-            { productName: "chocolate gaze donut", category: "dessert", price: "189", image: "image/glazed-chocolate-pink-donuts.jpg" },
-            { productName: "Apple peanut smoothie", category: "smoothies", price: "80", image: "image/Apple-Peanut-Butter-Smoothie-1801.jpg" },
-            { productName: "Cucumber lemonade", category: "Drinks", price: "40", image: "image/cucumber lemonade.jpg" },
-            { productName: "Cappuccion with wipcream", category: "coffee", price: "49", image: "image/rustic-wood-table-holds-frothy-coffee-drinks-generated-by-ai_188544-22883.jpg" },
-            { productName: "Cookie", category: "dessert", price: "49", image: "image/cookie.jpeg" },
-            { productName: "lemonade", category: "Drinks", price: "40", image: "image/ice lemonade.jpg" },
-            { productName: "Raspberries jam donut", category: "dessert", price: "49", image: "image/delicious-donut-raspberries.jpg" },
-            { productName: "powered donut", category: "dessert", price: "49", image: "image/snake-doughnuts-with-powdered-sugar.jpg" }
+            { productName: "chicken wrapper", category: "dessert", price: "30", image: "Images/image/chicken-wrap-doner-with-tomato_140725-10509.jpg" },
+            { productName: "Vanila latte", category: "coffee", price: "49", image: "Images/image/latte-coffee-cup_1203-3395.jpg" },
+            { productName: "Cappuccion with mashmelow", category: "coffee", price: "99", image: "Images/image/images (12).jpeg" },
+            { productName: "Chocalate tea", category: "coffee", price: "29", image: "Images/image/coffee-preparation-concept-still-life_23-2150354610.jpg" },
+            { productName: "Chicken sandwich", category: "dessert", price: "129", image: "Images/image/delicious-sandwich_144627-15079.jpg" },
+            { productName: "mango smoothie", category: "smoothies", price: "89", image: "Images/image/mango smoothies.webp" },
+            { productName: "chocolate gaze donut", category: "dessert", price: "189", image: "Images/image/glazed-chocolate-pink-donuts.jpg" },
+            { productName: "Apple peanut smoothie", category: "smoothies", price: "80", image: "Images/image/Apple-Peanut-Butter-Smoothie-1801.jpg" },
+            { productName: "Cucumber lemonade", category: "Drinks", price: "40", image: "Images/image/cucumber lemonade.jpg" },
+            { productName: "Cappuccion with wipcream", category: "coffee", price: "49", image: "Images/image/rustic-wood-table-holds-frothy-coffee-drinks-generated-by-ai_188544-22883.jpg" },
+            { productName: "Cookie", category: "dessert", price: "49", image: "Images/image/cookie.jpeg" },
+            { productName: "lemonade", category: "Drinks", price: "40", image: "Images/image/ice lemonade.jpg" },
+            { productName: "Raspberries jam donut", category: "dessert", price: "49", image: "Images/image/delicious-donut-raspberries.jpg" },
+            { productName: "powered donut", category: "dessert", price: "49", image: "Images/image/snake-doughnuts-with-powdered-sugar.jpg" }
         ]
     };
 
